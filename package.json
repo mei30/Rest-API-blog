@@ -1,0 +1,27 @@
+{
+  "name": "rest-api-blog",
+  "version": "1.0.0",
+  "description": "simple rest-api blog using expressjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mei30/Rest-API-blog.git"
+  },
+  "author": "Mei30",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mei30/Rest-API-blog/issues"
+  },
+  "homepage": "https://github.com/mei30/Rest-API-blog#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
